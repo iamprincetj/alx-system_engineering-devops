@@ -1,1 +1,1 @@
-each script is for navigateing the Linux
+each script is for navigateing the linux
